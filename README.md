@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>I'm Mercy Ndiritu, a passionate frontend developer who loves building cool things with code.<br><br>- 🔭 I’m currently working on: IAMIS<br>- 🌱 I’m currently learning: ExpressJs<br><br>Thanks for stopping by!
+Hi there 👋<br><br>I'm Mercy Ndiritu, a passionate frontend developer who loves building cool things with code.<br><br>- 🔭 I’m currently working on: Tasks By FUTURE Interns<br>- 🌱 I’m currently learning: ExpressJs<br><br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
