@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>I'm Mercy Ndiritu, a passionate frontend developer who loves building cool things with code.<br><br>- 🔭 I’m currently working on: Tasks By CVET Investment<br>- 🌱 I’m currently learning: Flutter<br><br>Thanks for stopping by!
+Hi there 👋<br><br>I'm Mercy Ndiritu, a passionate frontend developer who loves building cool things with code.<br><br>- 🔭 I’m currently working on: MajiBill- Water billing a payment mobile app<br>- 🌱 I’m currently learning: Flutter<br><br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
