@@ -26,6 +26,8 @@ Hi there 👋<br><br>I'm Mercy Ndiritu, a passionate frontend developer who love
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 # 📊 GitHub Stats:
 
