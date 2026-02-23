@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>I'm Mercy Ndiritu, a passionate full stack developer who loves building cool things with code.<br><br>- 🔭 I’m currently working on: Bizwak- Business Loans mobile app<br>- 🌱 I’m currently learning: Flutter<br><br>Thanks for stopping by!
+Hi there 👋<br><br>I'm Mercy Ndiritu, a passionate full stack developer who loves building cool things with code.<br><br>- 🔭 I’m currently working on: <br>- 🌱 I’m currently learning: .net <br><br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
