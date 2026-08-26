@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋<br><br>I'm Mercy Ndiritu, a passionate full stack developer who loves building cool things with code.<br><br>- 🔭 I'm currently working on: <br>- 🌱 I'm currently learning:  <br><br>Thanks for stopping by!
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mercy Ndiritu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mercy-ndiritu) 
 # 💻 Tech Stack:
 💻 Tech Stack:  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
